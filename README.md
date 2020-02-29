@@ -1,8 +1,10 @@
+На однофайловых компонентах, на vue-cli (без vuex)
+
 Запуск: 
-npm install
-npm run serve
-npm run start (это запуск бэкенд-сервера,... во втором открытом терминале)
-localhost: 8080
+1. npm install
+2. npm run serve
+3. npm run start (это запуск бэкенд-сервера,... во втором открытом терминале)
+4. localhost: 8080
 
 
 Что есть:
